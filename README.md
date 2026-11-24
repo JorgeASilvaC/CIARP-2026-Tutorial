@@ -24,7 +24,7 @@ The session combines a conceptual lecture, live coding, and a hands-on compariso
 |---|---|
 | `Tutorial_Time_Series_Cummulative.ipynb` | Main notebook — open in Colab and follow the session |
 | `Meadowbank_132.csv` | Unified Ausgrid extract used throughout the tutorial |
-| `CIARP2026_slides.pdf` | Lecture slides, for later reference |
+| `Ciarp_Press_2026.pdf` | Lecture slides, for later reference |
 
 ---
 
